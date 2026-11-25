@@ -1,2 +1,7 @@
 merhaba başka bir dalda takılıyorum projeyi daha çok proje haline getiriyorum
+<<<<<<< HEAD
 ama buraya bir yazıyorum.
+=======
+ikisini de yapmıyorum artık burada 3 yazacak.
+diğer özelliklerden habersiz burada bir bugı çözdüm
+>>>>>>> c232f73 (yenidaldan.txt'de bir bugı çözdüm)
