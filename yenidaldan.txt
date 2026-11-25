@@ -1,2 +1,3 @@
 merhaba başka bir dalda takılıyorum projeyi daha çok proje haline getiriyorum
 ikisini de yapmıyorum artık burada 3 yazacak.
+diğer özelliklerden habersiz burada bir bugı çözdüm
